@@ -1,0 +1,9 @@
+.link {
+    Font-size: 50px;
+    background-color: teal;
+    color: white;
+}
+.link:hover {
+    background-color: black;
+    
+}

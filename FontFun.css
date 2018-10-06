@@ -1,0 +1,36 @@
+h1 {
+    font-family: 'Muli', sans-serif;
+}
+
+h2 {
+    font-family: 'Amatic SC', cursive;
+}
+
+p {
+    font-family:'Dosis', sans-serif;
+    background-color: teal;
+    font-size: 30px;
+    font-weight: 10px;
+    line-height: 35px;
+    letter-spacing: 1px;
+}
+
+button {
+    font-size: 40px;
+    border: 2px solid teal;
+
+}
+
+button:hover {
+    background-color: pink;
+    color: white;
+}
+
+button:focus {
+    color: white;
+    background-color: red;
+}
+
+button:active {
+    background-color: teal;
+}
